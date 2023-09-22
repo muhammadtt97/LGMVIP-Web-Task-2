@@ -1,0 +1,12 @@
+{
+  "name": "lgmvip-web-task-2",
+  "version": "1.0.0",
+  "description": "registration form to display data in same page using html, css, and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
